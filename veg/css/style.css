@@ -1,0 +1,295 @@
+
+html{
+  margin-top: 36px;
+  background-color: #edf2c5;
+}
+
+body{
+  width: 1260px;
+  height: 880px;
+
+}
+
+.containerr{
+
+  margin-right: 160px;
+  margin-left: 160px;
+}
+
+
+.header{
+  display:flex; 
+  height:42px;
+  width:940px;
+  padding-bottom:8px;
+  align-items: flex-end;
+}
+  .header-title{
+    font-family: Arial Black;
+    color:#778A50;
+    width:271px;
+    height:42px;
+    margin-right:468px;
+    margin-top: 36px;
+    margin-bottom: 0px;
+    align-items: flex-end;
+    font-size: 32px;
+}
+
+.line{
+  min-width: 1px;
+  height:25px;
+  background-color:#778a50;
+  margin-left: 10px;
+  margin-bottom: 9px;
+}
+
+
+.header-icon {
+    width:25px;height:25px;
+    margin-left: 10px;
+    margin-bottom: 9px;
+    
+}
+
+.header-button{
+    width:60px;height:25px;
+    border: 1px;
+    font-size:14px;
+    border-style:solid;
+    border-color:#778a50 ;
+    font-family:Arial ;
+    text-align: center;
+    margin: 9px 10px ;
+    color:#778a50;
+}
+.header-button p{
+    margin-top: 5px;
+}
+
+  .nav_box {
+    width:940px;
+    height:44px;
+    display:flex;
+    list-style-type:none;
+    background-color:#778a50;
+    color:#edf2c5;
+    
+  }
+
+  .Home {
+    width: 51px;
+    height: 23px;
+    margin: 0 60px 0 0;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .About-Us {
+    width: 80px;
+    height: 23px;
+    margin: 0 60px 0 0;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  
+.Vegetables {
+  width: 98px;
+    height: 23px;
+    margin: 0 60px 0 0;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+.Online {
+    width: 56px;
+    height: 23px;
+    margin: 0 60px 0 0;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Contact {
+  width: 69px;
+    height: 23px;
+    margin: 0 60px 0 0;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.pumpkin {
+  margin-top: 20px;
+  margin-bottom: 30px;
+
+}
+
+.content{
+  display:flex;
+  width:940px;
+  justify-content: space-between;
+}
+.content-1{
+  padding-bottom:35px;
+  width:445px;
+}
+.subtitle-1{
+  
+  font-family: Arial Black;
+  background-color:#778a50;
+  color:#edf2c5;
+  font-size:16px;
+  margin-bottom: 15px;
+  margin-top: 0px;
+  padding:15px 30px;
+}
+.p1 {
+  width: 140px;
+  height: 140px;
+  
+}
+
+.p2{
+  width: 140px;
+  height: 140px;
+  margin-left: 8px ;
+  
+}
+.p3{
+  width: 140px;
+  height: 140px;
+  margin-left: 7px  ;
+  
+}
+
+.content-2{
+  width:445px;
+  padding-bottom:35px;
+}
+
+.body_box_contact_text {
+  
+  height:109px;
+  margin: 15px 0 0;
+  padding: 15px;
+  background-color:#f7fbda;
+
+  
+}
+
+.For{
+  width: 414px;
+  height: 44px;
+  margin: 0 0 15px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.line_contact_text {
+  width: 414px;
+  height: 1px;
+  margin: 15px 0;
+  background-color: #7d7d7d;
+}
+
+.E-mail {
+  width: 197px;
+  height: 35px;
+  margin: 15px 217px 0 0;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.footer {
+  display:flex;
+  font-family:Arial black;
+  justify-content: center;
+  width: 1260px;
+  height: 60px;
+  background-color: #778a50;
+}
+
+.Copyrights {
+  width: 301px;
+  height: 14px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3;
+  letter-spacing: normal;
+  text-align: left;
+  margin-top: 17px;
+  color: #edf2c5;
+}
+
+
+
+
+
